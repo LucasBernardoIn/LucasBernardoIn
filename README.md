@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LucasBernardoIn
 - 👀 I’m interested in  Python e JavaScript
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on  (não sei ainda)
+- 💞️ I’m looking to collaborate on  
 - 📫 How to reach me  .. 
 
 <!---
